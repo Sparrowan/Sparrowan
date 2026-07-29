@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sparrowan" alt="sparrowan" /></a> </p>
 
-- 💬 Ask me about **Node Js, Django, Laravel, React**
+- 💬 Ask me about **Node Js, Django,Spring Boot, Laravel, React**
 
 - 📫 How to reach me **alphiuswambua@gmail.com**
 
